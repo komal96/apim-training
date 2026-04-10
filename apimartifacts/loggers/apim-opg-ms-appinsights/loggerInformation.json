@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "loggerType": "applicationInsights",
+    "credentials": {
+      "instrumentationKey": "{{Logger-Credentials--69d90531217d201f80f2304f}}"
+    },
+    "isBuffered": true,
+    "resourceId": "/subscriptions/9056d7af-6e7d-43fb-b668-f8c038fba9f4/resourceGroups/ms-apim-training/providers/microsoft.insights/components/apim-opg-ms-appinsights"
+  }
+}
