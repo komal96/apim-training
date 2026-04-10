@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/9056d7af-6e7d-43fb-b668-f8c038fba9f4/resourceGroups/ms-apim-training/providers/Microsoft.ApiManagement/service/apim-opg-ms/products/gold-tier",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/9056d7af-6e7d-43fb-b668-f8c038fba9f4/resourceGroups/ms-apim-training/providers/Microsoft.ApiManagement/service/apim-opg-ms/users/1",
+    "state": "active"
+  }
+}
